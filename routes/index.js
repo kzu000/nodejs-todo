@@ -1,13 +1,6 @@
 const express = require("express");
 const router = express.Router();
 const knex = require("../db/knex");
-// const mysql = require("mysql");
-// const connection = mysql.createConnection({
-//   host: "127.0.0.1",
-//   user: "root",
-//   password: "K42u_z8o5",
-//   database: "todo_app",
-// });
 
 /* GET home page. */
 router.get("/", function (req, res, next) {
