@@ -7,7 +7,7 @@ module.exports = {
       host: "127.0.0.1",
       database: "todo_app",
       user: "root",
-      password: "",
+      password: "Ab1$tyZ9",
     },
     pool: {
       min: 2,
@@ -20,7 +20,7 @@ module.exports = {
     connection: {
       database: "todo_app",
       user: "root",
-      password: "",
+      password: "Ab1$tyZ9",
     },
     pool: {
       min: 2,
@@ -33,7 +33,7 @@ module.exports = {
     connection: {
       database: "todo_app",
       user: "root",
-      password: "",
+      password: "Ab1$tyZ9",
     },
     pool: {
       min: 2,
